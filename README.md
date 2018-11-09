@@ -1,4 +1,4 @@
 # ctba.github.io
 ## another octothorpe
-- bullet
+- This is a bullet
 A fake web page
